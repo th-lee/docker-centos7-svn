@@ -5,7 +5,7 @@ SVN on CentOS7 with Docker
 * Container OS : Centos 7
 * SVN : 1.7.14
 * http : 2.4.6
-*
+
 
 # Build
 ```
