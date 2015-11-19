@@ -27,7 +27,7 @@ http://${docker-machine-ip}:8080/svn/repos/pjtrepo/
 id : svnuser, password : svnuser
 ```
 
-## nexus log
+## svn log
 ```
 docker exec mysvn tail -f /var/log/httpd/svnlocal-access_log
 ```
